@@ -3,15 +3,12 @@ from bs4 import BeautifulSoup
 
 URLs = {
     'PPG': 'https://www.teamrankings.com/nfl/stat/points-per-game',
-    'PAPG': 'https://www.teamrankings.com/nfl/stat/opponent-points-per-game',
     'RTDPG': 'https://www.teamrankings.com/nfl/stat/rushing-touchdowns-per-game',
     'PassTD': 'https://www.teamrankings.com/nfl/stat/passing-touchdowns-per-game',
-    'rtd_allowed': 'https://www.teamrankings.com/nfl/stat/opponent-rushing-touchdowns-per-game',
-    'passTD_allowed': 'https://www.teamrankings.com/nfl/stat/opponent-passing-touchdowns-per-game',
     'third_conv': 'https://www.teamrankings.com/nfl/stat/third-down-conversions-per-game',
     'turnover': 'https://www.teamrankings.com/nfl/stat/turnover-margin-per-game',
     'redZn': 'https://www.teamrankings.com/nfl/stat/red-zone-scoring-pct',
-    'redZn_allowed': 'https://www.teamrankings.com/nfl/stat/opponent-red-zone-scoring-pct'
+    'timeOfP' : 'https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot'
 }
 
 
