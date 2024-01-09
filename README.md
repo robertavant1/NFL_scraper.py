@@ -27,7 +27,7 @@ This Python script compares NFL team statistics from various categories, helping
 - **Winner Determination:** The score is calculated a score based on which team has a higher statistic in each category. The team with the higher score is declared the winner.
 
 **Running the Script** 
-- execute the code by running the sxript
+- execute the code by running the script
 - follow the prompts that appear and input the team names, making sure to follow naming the rules above
   
 ## Example
